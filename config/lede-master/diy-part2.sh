@@ -40,7 +40,7 @@ git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
 rm -rf feeds/luci/themes/luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 # Add luci-app-autotimeset
-git clone https://github.com/sirpdboy/luci-app-autotimeset package/luci-app-autotimeset
+# git clone https://github.com/sirpdboy/luci-app-autotimeset package/luci-app-autotimeset
 #
 # Apply patch
 # git apply ../config/patches/{0001*,0002*}.patch --directory=feeds/luci
